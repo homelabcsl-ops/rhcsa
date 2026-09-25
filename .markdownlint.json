@@ -4,6 +4,7 @@
   "MD033": false,
   "MD024": false,
   "MD025": false,
+  "MD023": false,
   "MD013": {
     "line_length": 120,
     "code_blocks": false,
