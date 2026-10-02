@@ -1,28 +1,22 @@
 # ==========================================
-# üõ°Ô∏è RHCSA VAULT .GITIGNORE
+# 🍏 DKS VAULT .GITIGNORE
 # ==========================================
 
-# 1. macOS / Host System
+# macOS / Host System
 .DS_Store
 .AppleDouble
 .LSOverride
 ._*
-.DocumentRevisions-V100
-.Spotlight-V100
-.TemporaryItems
 .Trashes
-.VolumeIcon.icns
-.com.apple.timemachine.donotpresent
 
-# 2. Neovim / Vim State
+# Neovim / Vim State
 *~
 *.swp
 *.swo
 Session.vim
 .netrwhist
 
-# 3. Obsidian GUI State (Headless Protection)
-# Ignores local window arrangements and cache while preserving core vault settings
+# Obsidian GUI State (Headless Protection)
 .obsidian/workspace
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
@@ -30,5 +24,5 @@ Session.vim
 .obsidian/graph.json
 .trash/
 
-# 4. Sync Engine Conflicts
+# Sync Engine Conflicts
 *.sync-conflict-*
