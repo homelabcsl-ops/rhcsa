@@ -2,7 +2,7 @@
   "version": "0.2",
   "language": "en",
   "words": [
-    "dotfile", "dotfiles", "Neovim", "LazyVim", "wezterm", "tmux", 
+    "dotfile", "dotfiles", "Neovim", "LazyVim", "wezterm", "tuios", 
     "qcow2", "rhcsa", "limactl", "yaml", "Dataview", "GitOps", "homelab"
   ],
   "ignorePaths": [".git/**", ".obsidian/**", "**/*.yaml", "**/*.json"]
